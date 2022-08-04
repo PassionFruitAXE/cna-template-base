@@ -18,14 +18,14 @@
 npm install degit -g
 
 # yarn
-npx degit ShowMeTheCodePLZ/cna-template-base myapp
+npx degit FrontEndMST/cna-template-base myapp
 cd myapp
 yarn
 git init
 npx husky install
 
 # npm
-npx degit ShowMeTheCodePLZ/cna-template-base myapp
+npx degit FrontEndMST/cna-template-base myapp
 cd myapp
 npm i
 git init
