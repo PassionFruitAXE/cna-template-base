@@ -7,9 +7,11 @@
 - next 12
 - react 18
 - typescript
-- tailWind
+- tailwind css
 - eslint
+- stylelint
 - prettier
+- commitlint
 - commitizen
 
 ## Getting Started
